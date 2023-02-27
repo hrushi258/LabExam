@@ -14,6 +14,7 @@ public class LargerNumber{
          System.out.println(num2 + " is larger than " + num1);
       } else {
          System.out.println(num1 + " and " + num2 + " are equal");
+         System.out.println("Done")
       }
    }
 }
